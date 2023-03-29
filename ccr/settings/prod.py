@@ -1,6 +1,7 @@
 from pathlib import Path
 import os
 import dotenv
+from django.contrib import admin
 
 import os.path 
 import sys
